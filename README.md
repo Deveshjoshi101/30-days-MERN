@@ -382,9 +382,7 @@ This 30-day plan is designed to guide you through mastering the MERN stack (Mong
 13. Deploy the backend API and frontend application to a cloud service.
 14. Set up continuous integration and deployment (CI/CD) pipelines.
 15. Write unit and integration tests for both frontend and backend.
-16. Optimize performance and scalability of
-
- the application.
+16. Optimize performance and scalability of the application.
 17. Create comprehensive documentation for the project.
 18. Review and refactor the codebase.
 19. Prepare the project for presentation.
@@ -573,9 +571,7 @@ This 30-day plan is designed to guide you through mastering the MERN stack (Mong
 4. Set up a simple microservices environment with Docker.
 5. Practice creating and deploying microservices with Node.js.
 6. Implement service communication (HTTP, message queues).
-7. Explore service orches
-
-tration and coordination.
+7. Explore service orchestration and coordination.
 8. Learn about microservices security and authentication.
 9. Implement API Gateway for managing microservices.
 10. Practice monitoring and logging in microservices.
